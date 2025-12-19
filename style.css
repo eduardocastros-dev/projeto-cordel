@@ -55,7 +55,7 @@ section{
     padding-left: 30px;
     line-height: 2em;
     font-family: var(--fonte3);
-    font-size: 2.8vw;
+    font-size: 2.9vw;
 }
 
 section > p{
@@ -67,7 +67,6 @@ section.imagem > p{
     display: inline-block;
     padding: 7px;
     text-shadow: 1px 2px 0px black;
-    /* width: 400px; */
 }
 
 section.normal{
@@ -85,7 +84,7 @@ section.imagem{
 
 #img01{
     background-image: url(imagens/fundo001.jpg);
-    /* background-position: right center; */
+    background-position: right center;
 }
 
 #img02{
